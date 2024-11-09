@@ -1,0 +1,13 @@
+@media screen and (max-width: 880px) {
+  main {
+    flex-direction: column;
+  }
+  .child-second {
+    flex-direction: column;
+  }
+}
+@media screen and (max-width: 550px) {
+  header {
+    font-size: 2rem;
+  }
+}
